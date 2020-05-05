@@ -1,4 +1,4 @@
 void log(){
- cout << log(10) << endl;
+ cout << log10(10) << endl;
  exit(0);
 }
